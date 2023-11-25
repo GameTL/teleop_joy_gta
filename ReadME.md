@@ -14,6 +14,8 @@ Publish to : /cmd_vel
 # Feature
 
 - Output only `linear_x` and `angular_z` for diferential drive
+- Speed curve for adjustable fine-tune control at low or high speed
+![image varies speed curve](example_trigger_curve.png.png)
 
 # Limitations
 
